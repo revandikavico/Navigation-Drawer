@@ -1,0 +1,3 @@
+- [x] Update DrawerContent.kt with new name and NIM
+- [x] Update HomeScreen.kt with new nickname
+- [x] Verify changes with a build and preview
