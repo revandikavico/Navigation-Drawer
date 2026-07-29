@@ -90,3 +90,9 @@ di `Color.kt` untuk penggunaan di Compose.
 ---
 
 Copyright Disiapkan oleh Kukuh Yudhistiro - 2026
+
+![Image Alt](WhatsApp Image 2026-07-30 at 04.11.41.jpeg
+
+WhatsApp Image 2026-07-30 at 04.11.42 (1).jpeg
+
+WhatsApp Image 2026-07-30 at 04.11.42.jpeg)
