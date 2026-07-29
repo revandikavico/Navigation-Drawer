@@ -91,8 +91,8 @@ di `Color.kt` untuk penggunaan di Compose.
 
 Copyright Disiapkan oleh Kukuh Yudhistiro - 2026
 
-![Image Alt]((https://github.com/revandikavico/Navigation-Drawer/blob/9a77788f37ad0bb99fd7403dd123030dc6743f7e/WhatsApp%20Image%202026-07-30%20at%2004.11.41.jpeg))
+![Image Alt](https://github.com/revandikavico/Navigation-Drawer/blob/9a77788f37ad0bb99fd7403dd123030dc6743f7e/WhatsApp%20Image%202026-07-30%20at%2004.11.41.jpeg)
 
 ![Image Alt](https://github.com/revandikavico/Navigation-Drawer/blob/296d8a6ca02c9b3ea2d5ed3005b58182d8a1c2d6/WhatsApp%20Image%202026-07-30%20at%2004.11.42%20(1).jpeg)
 
-![Image Alt]((https://github.com/revandikavico/Navigation-Drawer/blob/76794c4e7a06f3daaf7ff002e4cbbaea6bbd4676/WhatsApp%20Image%202026-07-30%20at%2004.11.42.jpeg))
+![Image Alt](https://github.com/revandikavico/Navigation-Drawer/blob/76794c4e7a06f3daaf7ff002e4cbbaea6bbd4676/WhatsApp%20Image%202026-07-30%20at%2004.11.42.jpeg)
